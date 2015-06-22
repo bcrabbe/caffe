@@ -1,0 +1,1 @@
+cmd='env;CFLAGS=-fPIC;CXXFLAGS=-fPIC;/home/sphere/gait_cnn/Caffe/caffe/BLD/external/glog-prefix/src/glog/configure;--prefix=/home/sphere/gait_cnn/Caffe/caffe/BLD/external/glog-install;--enable-shared=no;--enable-static=yes;--with-gflags=/..'

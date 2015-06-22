@@ -2,7 +2,7 @@
 # Contributions simplifying and improving our build system are welcome!
 
 # cuDNN acceleration switch (uncomment to build with cuDNN).
-# USE_CUDNN := 1
+ USE_CUDNN := 1
 
 # CPU-only switch (uncomment to build without GPU support).
 # CPU_ONLY := 1
@@ -90,4 +90,4 @@ DISTRIBUTE_DIR := distribute
 TEST_GPUID := 0
 
 # enable pretty build (comment to see full commands)
-Q ?= @
+#Q ?= @
